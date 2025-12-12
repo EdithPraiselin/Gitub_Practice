@@ -1,1 +1,1 @@
-HELLO, this is the 1st line
+This is the 1st line
